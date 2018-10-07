@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on finsoft.info</title>
+    <link>https://finsoft.info/posts/</link>
+    <description>Recent content in Posts on finsoft.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>766529074@qq.com (finsoft.info)</managingEditor>
+    <webMaster>766529074@qq.com (finsoft.info)</webMaster>
+    <lastBuildDate>Sun, 08 Apr 2018 22:25:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://finsoft.info/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://finsoft.info/posts/test/</link>
+      <pubDate>Sun, 08 Apr 2018 22:25:13 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/posts/test/</guid>
+      <description>this is a test! this is a test! this is a test! this is a test! this is a test! this is a test! this is a test!</description>
+    </item>
+    
+    <item>
+      <title>铝合金</title>
+      <link>https://finsoft.info/posts/aluminum/</link>
+      <pubDate>Fri, 16 Feb 2018 11:08:37 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/posts/aluminum/</guid>
+      <description>奉新铝合金 高档铝合金门窗具有高强度的特点，广泛应用于商业建筑。 High quality aluminum windows and doors are very strong and used in commerce buildings. 铝合金门窗办理地点: 上海 [上海市吴传辉铝合金有限公</description>
+    </item>
+    
+    <item>
+      <title>List</title>
+      <link>https://finsoft.info/posts/list/</link>
+      <pubDate>Fri, 16 Feb 2018 11:01:45 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/posts/list/</guid>
+      <description>铝合金 [上海市吴传辉铝合金有限公司]() 香港购物 APPLE 个人空间 曾云龙</description>
+    </item>
+    
+  </channel>
+</rss>

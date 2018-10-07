@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finsoft.info</title>
+    <link>https://finsoft.info/</link>
+    <description>Recent content on finsoft.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>766529074@qq.com (finsoft.info)</managingEditor>
+    <webMaster>766529074@qq.com (finsoft.info)</webMaster>
+    <lastBuildDate>Sun, 08 Apr 2018 22:25:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://finsoft.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://finsoft.info/posts/test/</link>
+      <pubDate>Sun, 08 Apr 2018 22:25:13 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/posts/test/</guid>
+      <description>this is a test! this is a test! this is a test! this is a test! this is a test! this is a test! this is a test!</description>
+    </item>
+    
+    <item>
+      <title>铝合金</title>
+      <link>https://finsoft.info/posts/aluminum/</link>
+      <pubDate>Fri, 16 Feb 2018 11:08:37 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/posts/aluminum/</guid>
+      <description>奉新铝合金 高档铝合金门窗具有高强度的特点，广泛应用于商业建筑。 High quality aluminum windows and doors are very strong and used in commerce buildings. 铝合金门窗办理地点: 上海 [上海市吴传辉铝合金有限公</description>
+    </item>
+    
+    <item>
+      <title>List</title>
+      <link>https://finsoft.info/posts/list/</link>
+      <pubDate>Fri, 16 Feb 2018 11:01:45 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/posts/list/</guid>
+      <description>铝合金 [上海市吴传辉铝合金有限公司]() 香港购物 APPLE 个人空间 曾云龙</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://finsoft.info/about/</link>
+      <pubDate>Sat, 18 Mar 2017 20:53:54 +0800</pubDate>
+      <author>766529074@qq.com (finsoft.info)</author>
+      <guid>https://finsoft.info/about/</guid>
+      <description>Info Tom（曾云龙） ShenZhen, China 🇨🇳 Contact Tel：MTMxODk3NzU0MjUK（base64） WeChat: 13189775425 Email: 766529074@.com Blog：blog.finsoft.info WeChat Official</description>
+    </item>
+    
+  </channel>
+</rss>

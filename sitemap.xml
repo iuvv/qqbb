@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://finsoft.info/posts/test/</loc>
+    <lastmod>2018-04-08T22:25:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/posts/aluminum/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/posts/list/</loc>
+    <lastmod>2018-02-16T11:01:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/about/</loc>
+    <lastmod>2017-03-18T20:53:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/</loc>
+    <lastmod>2018-04-08T22:25:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/aluminum/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/categories/aluminum/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/categories/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/doors/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/list/</loc>
+    <lastmod>2018-02-16T11:01:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/categories/list/</loc>
+    <lastmod>2018-02-16T11:01:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/me/</loc>
+    <lastmod>2017-03-18T20:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/posts/</loc>
+    <lastmod>2018-04-08T22:25:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/test/</loc>
+    <lastmod>2018-04-08T22:25:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/categories/test/</loc>
+    <lastmod>2018-04-08T22:25:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://finsoft.info/tags/windows/</loc>
+    <lastmod>2018-02-16T11:08:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
